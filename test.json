@@ -5,10 +5,11 @@
       "insta banner" : "ca-app-pub-3940256099942544/6300978111",
       "insta inter" : "ca-app-pub-3940256099942544/1033173712"
     },
+    
     "Mycpu ads" : {
       "mycpu app id" : "ca-app-pub-8173743631430642~1027403104",
       "mycpu banner" : "/419163168/com.cpuz.deviceinfo.hardware.info.banner",
       "mycpu inter" : "/419163168/com.cpuz.deviceinfo.hardware.info.interstitial"
-    },
+    }
 
 }
