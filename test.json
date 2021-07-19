@@ -1,39 +1,13 @@
-[
-  {
-    "userId": 9,
-    "id": 87,
-    "title": "nostrum quis quasi placeat",
-    "body": "eos et molestiae\nnesciunt ut a\ndolores perspiciatis repellendus repellat aliquid\nmagnam sint rem ipsum est"
-  },
-  {
-    "userId": 9,
-    "id": 88,
-    "title": "sapiente omnis fugit eos",
-    "body": "consequatur omnis est praesentium\nducimus non iste\nneque hic deserunt\nvoluptatibus veniam cum et rerum sed"
-  },
-  {
-    "userId": 9,
-    "id": 89,
-    "title": "sint soluta et vel magnam aut ut sed qui",
-    "body": "repellat aut aperiam totam temporibus autem et\narchitecto magnam ut\nconsequatur qui cupiditate rerum quia soluta dignissimos nihil iure\ntempore quas est"
-  },
-    {
-    "userId": 9,
-    "id": 87,
-    "title": "nostrum quis quasi placeat",
-    "body": "eos et molestiae\nnesciunt ut a\ndolores perspiciatis repellendus repellat aliquid\nmagnam sint rem ipsum est"
-  },
-  {
-    "userId": 9,
-    "id": 88,
-    "title": "sapiente omnis fugit eos",
-    "body": "consequatur omnis est praesentium\nducimus non iste\nneque hic deserunt\nvoluptatibus veniam cum et rerum sed"
-  },
-  {
-    "userId": 9,
-    "id": 89,
-    "title": "sint soluta et vel magnam aut ut sed qui",
-    "body": "repellat aut aperiam totam temporibus autem et\narchitecto magnam ut\nconsequatur qui cupiditate rerum quia soluta dignissimos nihil iure\ntempore quas est"
-  },
+{
+    "Insta-ads" : {
+      "insta app id" : "ca-app-pub-3940256099942544~3347511713",
+      "insta banner" : "ca-app-pub-3940256099942544/6300978111",
+      "insta inter" : "ca-app-pub-3940256099942544/1033173712"
+    },
   
-]
+    "Mycpu ads" : {
+      "mycpu app id" : "ca-app-pub-3940256099942544~3347511713",
+      "mycpu banner" : "ca-app-pub-3940256099942544/6300978111",
+      "mycpu inter" : "ca-app-pub-3940256099942544/1033173712"
+    },  
+}
