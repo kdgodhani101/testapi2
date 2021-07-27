@@ -2,9 +2,9 @@
     
     "Insta-ads" : {
       "insta app id" : "ca-app-pub-8173743631430642~6345310400",
-      "insta banner" : "ca-app-pub-8173743631430642/6153738713",
-      "insta inter" : "ca-app-pub-8173743631430642/4840657041",
-      "insta-native" : "ca-app-pub-8173743631430642/2879797985"
+      "insta banner" : "/419163168/com.instagram.story.video.downloader.banner",
+      "insta inter" : "/419163168/com.instagram.story.video.downloader.Interstitial",
+      "insta-native" : "/419163168/com.instagram.story.video.downloader.native"
     },
     
     "Mycpu ads" : {
