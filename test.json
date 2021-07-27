@@ -11,6 +11,16 @@
       "mycpu app id" : "ca-app-pub-8173743631430642~1027403104",
       "mycpu banner" : "/419163168/com.cpuz.deviceinfo.hardware.info.banner",
       "mycpu inter" : "/419163168/com.cpuz.deviceinfo.hardware.info.interstitial"
+    },
+    "instaSaver-ads" : {
+      "instaSaver app id" : "ca-app-pub-8173743631430642~2192105102",
+      "instaSaver banner" : "ca-app-pub-8173743631430642/5691177040",
+      "instaSaver inter" : "ca-app-pub-8173743631430642/2000533412",
+      "instaSaver-native" : "ca-app-pub-8173743631430642/4435125060"
     }
+    
+    
+    
+   
 
 }
