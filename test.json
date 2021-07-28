@@ -8,10 +8,10 @@
     },
     
     "Mycpu ads" : {
-      "mycpu app id" : "ca-app-pub-8173743631430642~1027403104",
-      "mycpu banner" : "ca-app-pub-3940256099942544/6300978111",
-      "mycpu inter" : "ca-app-pub-3940256099942544/1033173712",
-      "mycpu native" : "ca-app-pub-3940256099942544/2247696110"
+      "mycpu app id" : "ca-app-pub-8173743631430642~8633691697",
+      "mycpu banner" : "ca-app-pub-8173743631430642/9199285013",
+      "mycpu inter" : "ca-app-pub-8173743631430642/5260040002",
+      "mycpu native" : "ca-app-pub-8173743631430642/2998221633"
     },
     "instaSaver-ads" : {
       "instaSaver app id" : "ca-app-pub-8173743631430642~2192105102",
@@ -19,9 +19,5 @@
       "instaSaver inter" : "ca-app-pub-8173743631430642/2000533412",
       "instaSaver-native" : "ca-app-pub-8173743631430642/4435125060"
     }
-    
-    
-    
-   
 
 }
