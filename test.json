@@ -9,9 +9,9 @@
     
     "Mycpu ads" : {
       "mycpu app id" : "ca-app-pub-8173743631430642~8633691697",
-      "mycpu banner" : "/419163168/com.cpuz.deviceinfo.hardware.phone.info.Banner",
-      "mycpu inter" : "/419163168/com.cpuz.deviceinfo.hardware.phone.info.Interstitial",
-      "mycpu native" : "/419163168/com.cpuz.deviceinfo.hardware.phone.info.Native"
+      "mycpu banner" : "ca-app-pub-6977652980925873/9564182297",
+      "mycpu inter" : "ca-app-pub-6977652980925873/5709338394",
+      "mycpu native" : "ca-app-pub-6977652980925873/4396256726"
     },
     "instaSaver-ads" : {
       "instaSaver app id" : "ca-app-pub-8173743631430642~2192105102",
