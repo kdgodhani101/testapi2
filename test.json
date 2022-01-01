@@ -8,11 +8,9 @@
     },
     
     "Mycpu ads" : {
-      "mycpu app id" : "ca-app-pub-7259907660329407~7362737356",
-      "mycpu banner" : "ca-app-pub-3940256099942544/6300978111",
-      "mycpu inter" : "ca-app-pub-3940256099942544/1033173712",
-      "mycpu native" : "ca-app-pub-3940256099942544/2247696110",
-      "mycpu AppOpen" : "ca-app-pub-3940256099942544/3419835294"
+      "mycpu game_id" : "4534739",
+      "mycpu banner" : "Banner_Android",
+      "mycpu inter" : "Interstitial_Android"
     },
     "instaSaver-ads" : {
       "instaSaver app id" : "ca-app-pub-8173743631430642~2192105102",
