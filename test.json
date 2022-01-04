@@ -18,11 +18,12 @@
       "instaSaver inter" : "ca-app-pub-5098645220137169/6919308866",
       "instaSaver-native" : "ca-app-pub-5098645220137169/9353900516"
     },
-    {
+    
     "PhotoFrame":{
     "game_id":"4533439",
     "inter":"Interstitial_Android",
     "banner":"Banner_Android",
     "bool":"true"
+    }
 
 }
